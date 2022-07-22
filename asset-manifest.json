@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Danu-Notes/static/css/main.df33f536.css",
+    "main.js": "/Danu-Notes/static/js/main.fac4dc38.js",
+    "index.html": "/Danu-Notes/index.html",
+    "main.df33f536.css.map": "/Danu-Notes/static/css/main.df33f536.css.map",
+    "main.fac4dc38.js.map": "/Danu-Notes/static/js/main.fac4dc38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df33f536.css",
+    "static/js/main.fac4dc38.js"
+  ]
+}
